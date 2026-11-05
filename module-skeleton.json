@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-pricing-nuxt",
+  "capabilityKey": "planned:ecommerce:pricing",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-ecommerce-pricing-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/ecommerce/nextjs/pricing.md",
+  "presentationPlan": "projects/ecommerce/nuxt/pricing.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
